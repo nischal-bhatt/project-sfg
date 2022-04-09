@@ -1,0 +1,13 @@
+package jt.project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JtProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JtProjectApplication.class, args);
+	}
+
+}
